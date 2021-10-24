@@ -1,2 +1,1 @@
-# agriculture-ml
-Machine Learning for Agriculture Prices
+# Machine Learning for Agriculture Prices
